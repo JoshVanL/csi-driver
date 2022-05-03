@@ -6,6 +6,7 @@ require (
 	github.com/cert-manager/csi-lib v0.1.0
 	github.com/go-logr/logr v0.4.0
 	github.com/jetstack/cert-manager v1.4.0
+	github.com/norwoodj/helm-docs v1.9.1
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.14.0
 	github.com/spf13/cobra v1.1.3
